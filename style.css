@@ -1,0 +1,41 @@
+.heading
+{
+    font-size: 23px;
+    width:100%;
+    margin: 0px;
+    background-color:thistle
+}
+
+.note
+{
+    font-size: 15px;
+    color:tomato
+}
+
+body
+{
+    background-size:cover;
+}
+
+.div_speed
+{
+    float:left;
+}
+.div_speed_img
+{
+    width:200px;
+    border-radius:100px;
+}
+
+.play_button
+{
+    width: 130px;
+    font-size: 24px;
+    background-color:violet
+}
+canvas
+{
+    border: 5px solid violet;
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px white;
+}
